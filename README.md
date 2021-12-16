@@ -1,5 +1,5 @@
 # [X Semana da Biologia UFABC - 2021](https://sites.google.com/view/x-semana-da-biologia-ufabc/xsbioufabc)
-<img src="ufabc_logos.png" align="right" width = "250px"/>
+<img src="UFABC_logos.png" align="right" width = "250px"/>
 
 ## [Minicurso: Análise e visualização de dados de biodiversidade no R (12 horas)](https://sites.google.com/view/x-semana-da-biologia-ufabc/minicursos?authuser=0#h.aobl38szjvvm)
 
