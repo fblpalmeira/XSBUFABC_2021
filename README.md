@@ -19,6 +19,9 @@ NÚMERO DE VAGAS: 200
 
 CARGA HORÁRIA: 12 horas
 
+PRIMEIRO DIA: 
+
+
 MATERIAIS:
 
 - [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
