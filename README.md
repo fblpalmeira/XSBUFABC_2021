@@ -19,16 +19,18 @@ NÚMERO DE VAGAS: 200
 
 CARGA HORÁRIA: 12 horas
 
-PRIMEIRO DIA: 
+AULA 1:
 
+- [Apresentação do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
 
-MATERIAIS:
-
-- [Ementa do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
+- [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
 
-- [Aula teórica  `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+- [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+
+- [Prática 1 - Redes ecológicas bipartite e multipartite]
+
 
 EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
