@@ -31,6 +31,17 @@ AULA 1:
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
+AULA 2:
+
+- [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+
+- [Prática 2 - Modelo de ocupação]
+
+AULA 3:
+
+- [Aula teórica 3 - Movimento animal `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+
+- [Prática 3 - Visualização (GIF) do movimento animal]
 
 EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
