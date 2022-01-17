@@ -58,8 +58,7 @@ AULA 3:
 
 - [Prática 3 - Visualização (GIF) do movimento animal]
 
-<img src="jaguar_pantanal_saobento_2008.gif">
-
+<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
 
 REFERÊNCIAS:
 
