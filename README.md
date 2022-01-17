@@ -31,6 +31,21 @@ AULA 1:
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
+EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
+
+- [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
+
+- [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
+
+## Instalação
+
+Instale o pacote 'foodweb' do `R`:
+
+``` r
+# install.packages("foodweb")
+library(foodweb)
+```
+
 AULA 2:
 
 - [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
@@ -43,22 +58,8 @@ AULA 3:
 
 - [Prática 3 - Visualização (GIF) do movimento animal]
 
-EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
+<img src="jaguar_pantanal_saobento_2008.gif">
 
-- [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
-
-- [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
-
-<img src="jaguar_foodweb.gif">
-
-## Instalação
-
-Instale o pacote 'foodweb' do `R`:
-
-``` r
-# install.packages("foodweb")
-library(foodweb)
-```
 
 REFERÊNCIAS:
 
