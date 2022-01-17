@@ -39,15 +39,6 @@ EXERCÍCIO: O objetivo da nossa aula prática é construir esse gráfico 3D que 
 
 <img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
-## Instalação
-
-Instale o pacote 'foodweb' do `R`:
-
-``` r
-# install.packages("foodweb")
-library(foodweb)
-```
-
 AULA 2:
 
 - [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
