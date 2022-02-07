@@ -21,13 +21,13 @@ CARGA HORÁRIA: 12 horas
 
 AULA 1:
 
-- [Apresentação do curso `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
+- [Apresentação do curso `.pdf`]()
 
-- [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/1_Ementa_Workshop_R_SBMGC_2021.pdf)
+- [Introdução rápida ao R `.pdf`]()
 
-- [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/2_Tutorial_RStudioCloud_Pronta_Cientista_2021.pdf)
+- [Tutorial do RStudio Cloud `.pdf`]()
 
-- [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
+- [Aula teórica 1 - Modelos de comunidades `.pdf`]()
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
@@ -39,28 +39,34 @@ EXERCÍCIO: O objetivo desta aula prática é construir esse gráfico 3D que rep
 
 <img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
-AULA 2:
-
-- [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
-
-- [Prática 2 - Modelo de ocupação]
-
-AULA 3:
-
-- [Aula teórica 3 - Movimento animal `.pdf`](https://github.com/fblpalmeira/SBMGC_2021/blob/main/3_Aula_Teorica_Modelos.pdf)
-
-- [Prática 3 - Visualização (GIF) do movimento animal]
-
-EXERCÍCIO: O objetivo desta aula prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados de literatura compilados por [Morato t al 2018](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
-
-- [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
-
-- [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
-
-<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
-
 REFERÊNCIAS:
 
 [Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
 
 [Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
+
+AULA 2:
+
+- [Aula teórica 2 - Modelos populacionais `.pdf`]()
+
+- [Prática 2 - Modelo de ocupação]
+
+AULA 3:
+
+- [Aula teórica 3 - Movimento animal `.pdf`]()
+
+- [Prática 3 - Visualização (GIF) do movimento animal]
+
+EXERCÍCIO: O objetivo desta aula prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
+
+- [Script `.R`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.R)
+
+- [Database `.csv`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.txt)
+
+<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
+
+REFERÊNCIAS: 
+
+[Morato, R. G. et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
+
+[Schwalb-Willmann, J. 2020.](https://cran.r-project.org/web/packages/moveVis/index.html) Package 'moveVis': Movement Data Visualization.
