@@ -31,13 +31,13 @@ AULA 1:
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
+<img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif" align="left" width = "600px"/>
+
 EXERCÍCIO: O objetivo desta aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
 - [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
 
 - [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
-
-<img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
 REFERÊNCIAS:
 
@@ -63,7 +63,7 @@ EXERCÍCIO: O objetivo desta aula prática é visualizar o movimento animal de i
 
 - [Database `.csv`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.txt)
 
-<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
+<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif" align="left" width = "500px"/>
 
 REFERÊNCIAS: 
 
