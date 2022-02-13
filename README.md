@@ -25,7 +25,7 @@ AULA 1:
 
 - [Introdução rápida ao R `.pdf`]()
 
-- [Tutorial do RStudio Cloud `.pdf`]()
+- [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/Exercicio1_Waffle_RStudioCloud_Fran_UFABC_2021.pdf)
 
 - [Aula teórica 1 - Modelos de comunidades `.pdf`]()
 
