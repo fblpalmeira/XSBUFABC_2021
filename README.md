@@ -23,7 +23,7 @@ AULA 1:
 
 - [Apresentação do curso `.pdf`]()
 
-- [Introdução rápida ao R `.pdf`]()
+- [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/Aula1_Intro_R_for_Mac_Fran_UFABC_2021-compactado.pdf)
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/Exercicio1_Waffle_RStudioCloud_Fran_UFABC_2021.pdf)
 
