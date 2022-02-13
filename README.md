@@ -21,7 +21,7 @@ CARGA HORÁRIA: 12 horas
 
 AULA 1:
 
-- [Apresentação do curso `.pdf`]()
+- [Apresentação do curso `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/Aula1_Intro_Minicurso_XSemBio_UFABC_2021.pdf)
 
 - [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/Aula1_Intro_R_for_Mac_Fran_UFABC_2021-compactado.pdf)
 
