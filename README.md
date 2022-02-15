@@ -1,6 +1,8 @@
 # [X Semana da Biologia UFABC - 2021](https://sites.google.com/view/x-semana-da-biologia-ufabc/xsbioufabc)
 <img src="https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/img/UFABC_logos.png" align="right" width = "250px"/>
 
+A X Semana da Biologia UFABC foi um evento realizado de 12 a 23 de Julho de 2021.
+
 ## [Minicurso: Análise e visualização de dados de biodiversidade no R (12 horas)](https://sites.google.com/view/x-semana-da-biologia-ufabc/minicursos?authuser=0#h.aobl38szjvvm)
 ### Francesca B. L. Palmeira
 <img src="https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/img/UFABC_minicurso.png" align="right" width = "500px"/>
@@ -9,15 +11,11 @@ EMENTA: Este curso tem como objetivo oferecer um treinamento prático no uso da 
 
 PÚBLICO-ALVO: Estudantes de graduação, pós-graduação e profissionais com interesse em análise e visualização de dados de biodiversidade.
 
-PRÉ-REQUISITOS: Não tem pré-requisito
+PRÉ-REQUISITOS: Sem pré-requisito
 
 CRITÉRIOS DE SELEÇÃO: 1) Priorizar grupos subrepresentados no uso do R (ex. mulheres cis, mulheres trans, pessoas não-binárias, pessoas de baixa renda e/ou pessoas que se auto declarar como parte de grupos subrepresentados) - critérios utilizados pelas RLadies; 2) Ordem de inscrição.
 
 JUSTIFICATIVA: O avanço tecnológico dos últimos anos facilitou o nosso acesso a equipamentos modernos de campo e a ferramentas gratuitas para a análise de dados. Aliado a este fato, existe uma quantidade enorme de dados de biodiversidade disponíveis em diversos repositórios online. Desta forma, o uso da linguagem R tem sido extremamente útil para analisar e visualizar toda essa quantidade de dados disponíveis, além de possibilitar maior transparência e reprodutibilidade no processo de análise.
-
-NÚMERO DE VAGAS: 200
-
-CARGA HORÁRIA: 12 horas
 
 AULA 1:
 
