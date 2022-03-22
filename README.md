@@ -45,7 +45,7 @@ REFERÊNCIAS:
 
 AULA 2:
 
-- [Aula teórica 2 - Modelos populacionais `.pdf`]()
+- [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula2_ModelosPopulacionais_Fran_XSemBio_UFABC_2021.pdf)
 
 - [Prática 2 - Modelo de ocupação]
 
