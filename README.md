@@ -49,6 +49,18 @@ AULA 2:
 
 - [Prática 2 - Modelo de ocupação]
 
+EXERCÍCIO: O objetivo desta aula prática é estimar a ocorrência de espécies incorporando o viés da detecção imperfeita.
+
+- [Código `.R`]()
+
+- [Planilha `.csv`]()
+
+REFERÊNCIAS:
+
+[Fiske IJ & Chandler RB, 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
+
+[Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
+
 AULA 3:
 
 - [Aula teórica 3 - Movimento animal `.pdf`]()
