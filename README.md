@@ -25,7 +25,7 @@ AULA 1:
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Exercicio1_Waffle_RStudioCloud_Fran_UFABC_2021.pdf)
 
-- [Aula teórica 1 - Modelos de comunidades `.pdf`]()
+- [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_ModelosComunidades_Fran_XSemBio_UFABC_2021.pdf)
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
