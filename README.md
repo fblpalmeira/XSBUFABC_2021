@@ -19,11 +19,9 @@ JUSTIFICATIVA: O avanço tecnológico dos últimos anos facilitou o nosso acesso
 
 **AULA 1 - DIA 20/07/2021**
 
-INTRODUÇÃO AO CURSO:
+INTRODUÇÃO:
 
 - [Apresentação do curso `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_Intro_Minicurso_XSemBio_UFABC_2021.pdf)
-
-INTRODUÇÃO AO R:
 
 - [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_Intro_R_for_Mac_Fran_UFABC_2021-compactado.pdf)
 
@@ -33,9 +31,7 @@ AULA TEÓRICA: Introdução a estrutura e a dinâmica de redes de interações t
 
 - [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_ModelosComunidades_Fran_XSemBio_UFABC_2021.pdf)
 
-- [Prática 1 - Redes ecológicas bipartite e multipartite]
-
-AULA PRÁTICA: O objetivo deste exercício é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
+PRÁTICA 1 - Redes ecológicas bipartite e multipartite: O objetivo desta prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
 - [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
 
@@ -55,9 +51,7 @@ AULA TEÓRICA: Introdução aos modelos populacionais que incorporam o viés da 
 
 - [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula2_ModelosPopulacionais_Fran_XSemBio_UFABC_2021.pdf)
 
-- [Prática 2 - Modelo de ocupação]
-
-AULA PRÁTICA: O objetivo deste exercício é estimar a ocorrência de espécies incorporando o viés da detecção imperfeita.
+PRÁTICA 2 - Modelo de ocupação: O objetivo desta prática é estimar a ocorrência de espécies incorporando o viés da detecção imperfeita.
 
 - [Código `.R`]()
 
@@ -75,9 +69,7 @@ AULA TEÓRICA: Introdução aos modelos de movimento animal utilizando dados de 
 
 - [Aula teórica 3 - Movimento animal `.pdf`]()
 
-- [Prática 3 - Visualização (GIF) do movimento animal]
-
-AULA PRÁTICA: O objetivo deste exercício é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
+PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
 
 - [Código `.R`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.R)
 
