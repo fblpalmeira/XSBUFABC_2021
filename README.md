@@ -17,19 +17,25 @@ CRITÉRIOS DE SELEÇÃO: 1) Priorizar grupos subrepresentados no uso do R (ex. m
 
 JUSTIFICATIVA: O avanço tecnológico dos últimos anos facilitou o nosso acesso a equipamentos modernos de campo e a ferramentas gratuitas para a análise de dados. Aliado a este fato, existe uma quantidade enorme de dados de biodiversidade disponíveis em diversos repositórios online. Desta forma, o uso da linguagem R tem sido extremamente útil para analisar e visualizar toda essa quantidade de dados disponíveis, além de possibilitar maior transparência e reprodutibilidade no processo de análise.
 
-AULA 1:
+**AULA 1 - DIA 20/07/2021**
+
+INTRODUÇÃO AO CURSO:
 
 - [Apresentação do curso `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_Intro_Minicurso_XSemBio_UFABC_2021.pdf)
+
+INTRODUÇÃO AO R:
 
 - [Introdução rápida ao R `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_Intro_R_for_Mac_Fran_UFABC_2021-compactado.pdf)
 
 - [Tutorial do RStudio Cloud `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Exercicio1_Waffle_RStudioCloud_Fran_UFABC_2021.pdf)
 
+AULA TEÓRICA: Introdução a estrutura e a dinâmica de redes de interações tróficas .
+
 - [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_ModelosComunidades_Fran_XSemBio_UFABC_2021.pdf)
 
 - [Prática 1 - Redes ecológicas bipartite e multipartite]
 
-EXERCÍCIO: O objetivo desta aula prática é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
+AULA PRÁTICA: O objetivo deste exercício é construir esse gráfico 3D que representa a rede de interações ecológica da onça-pintada (Panthera onca) com dados de literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf).
 
 - [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
 
@@ -43,13 +49,15 @@ REFERÊNCIAS:
 
 [Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
 
-AULA 2:
+**AULA 2 - DIA 21/07/2021**
+
+AULA TEÓRICA: Introdução aos modelos populacionais que incorporam o viés da detecção imperfeita (processos observacionais) para estimar a ocorrêcia, a abundância e a densidade de espécies da fauna.
 
 - [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula2_ModelosPopulacionais_Fran_XSemBio_UFABC_2021.pdf)
 
 - [Prática 2 - Modelo de ocupação]
 
-EXERCÍCIO: O objetivo desta aula prática é estimar a ocorrência de espécies incorporando o viés da detecção imperfeita.
+AULA PRÁTICA: O objetivo deste exercício é estimar a ocorrência de espécies incorporando o viés da detecção imperfeita.
 
 - [Código `.R`]()
 
@@ -61,13 +69,15 @@ REFERÊNCIAS:
 
 [Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
 
-AULA 3:
+**AULA 3 - DIA 22/07/2021**
+
+AULA TEÓRICA: Introdução aos modelos de movimento animal utilizando dados de telemetria.
 
 - [Aula teórica 3 - Movimento animal `.pdf`]()
 
 - [Prática 3 - Visualização (GIF) do movimento animal]
 
-EXERCÍCIO: O objetivo desta aula prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
+AULA PRÁTICA: O objetivo deste exercício é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
 
 - [Código `.R`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.R)
 
