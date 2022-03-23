@@ -51,7 +51,7 @@ REFERÊNCIAS:
 
 **AULA 2 - DIA 21/07/2021**
 
-AULA TEÓRICA: Introdução aos modelos populacionais que incorporam o viés da detecção imperfeita (processos observacionais) para estimar a ocorrêcia, a abundância e a densidade de espécies da fauna.
+AULA TEÓRICA: Introdução aos modelos populacionais que incorporam o viés da detecção imperfeita (processos observacionais) para estimar a ocorrência, a abundância e a densidade de espécies da fauna.
 
 - [Aula teórica 2 - Modelos populacionais `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula2_ModelosPopulacionais_Fran_XSemBio_UFABC_2021.pdf)
 
