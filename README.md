@@ -37,13 +37,13 @@ PRÁTICA 1 - Redes ecológicas bipartite e multipartite: O objetivo desta práti
 
 - [Planilha `.csv`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.csv)
 
-<img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
-
 REFERÊNCIAS:
 
 [Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
 
 [Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
+
+<img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
 **AULA 2 - DIA 21/07/2021**
 
@@ -75,10 +75,11 @@ PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática
 
 - [Planilha `.csv`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.txt)
 
-<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
-
 REFERÊNCIAS: 
 
 [Morato, R. G. et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
 
 [Schwalb-Willmann, J. 2020.](https://cran.r-project.org/web/packages/moveVis/index.html) Package 'moveVis': Movement Data Visualization.
+
+<img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
+
