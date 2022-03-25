@@ -67,7 +67,7 @@ AULA TEÓRICA: Introdução aos modelos de movimento animal utilizando dados de 
 
 - [Aula teórica 3 - Movimento animal `.pdf`]()
 
-PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). Para visualizar o deslocamento dos animais é utilizado o pacote ‘moveVis’ (Schwalb-Willmann 2019) que irá gerar o vídeo de animação do movimento espaço-temporal dos indivíduos (GIF).
+PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática é visualizar o movimento animal de indivíduos de onça-pintada (Panthera onca) monitorados no Pantanal utilizando os dados do "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). Para visualizar o deslocamento dos animais é utilizado o pacote ‘moveVis’ [(Schwalb-Willmann 2020)](https://cran.r-project.org/web/packages/moveVis/moveVis.pdf) que irá gerar o vídeo de animação do movimento espaço-temporal dos indivíduos (GIF).
 
 - [Código `.R`](https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.R)
 
