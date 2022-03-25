@@ -79,14 +79,14 @@ REFERÊNCIAS:
 
 [Dormann CF, Fruend J, Gruber B. 2021.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf) Package ‘bipartite’. 
 
-[Fiske IJ & Chandler RB, 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
+[Fiske IJ, Chandler RB. 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
 
 [Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
 
-[Morato, R. G. et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
+[Morato RG et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
 
-[Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
+[Palmeira FBL. 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
 
-[Perdomo G, 2015.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
+[Perdomo G 2015.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
 
-[Schwalb-Willmann, J. 2020.](https://cran.r-project.org/web/packages/moveVis/moveVis.pdf) Package 'moveVis': Movement Data Visualization.
+[Schwalb-Willmann J. 2020.](https://cran.r-project.org/web/packages/moveVis/moveVis.pdf) Package 'moveVis': Movement Data Visualization.
