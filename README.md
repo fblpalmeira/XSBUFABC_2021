@@ -17,7 +17,7 @@ CRITÉRIOS DE SELEÇÃO: 1) Priorizar grupos subrepresentados no uso do R (ex. m
 
 JUSTIFICATIVA: O avanço tecnológico dos últimos anos facilitou o nosso acesso a equipamentos modernos de campo e a ferramentas gratuitas para a análise de dados. Aliado a este fato, existe uma quantidade enorme de dados de biodiversidade disponíveis em diversos repositórios online. Desta forma, o uso da linguagem R tem sido extremamente útil para analisar e visualizar toda essa quantidade de dados disponíveis, além de possibilitar maior transparência e reprodutibilidade no processo de análise.
 
-**AULA 1 - DIA 20/07/2021**
+## AULA 1 - DIA 20/07/2021
 
 INTRODUÇÃO:
 
@@ -53,7 +53,7 @@ REFERÊNCIAS:
 
 [Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
 
-**AULA 2 - DIA 21/07/2021**
+## AULA 2 - DIA 21/07/2021
 
 AULA TEÓRICA: Introdução aos modelos populacionais que incorporam o viés da detecção imperfeita (processos observacionais) para estimar a ocorrência, a abundância e a densidade de espécies da fauna.
 
@@ -73,7 +73,7 @@ REFERÊNCIAS:
 
 [Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
 
-**AULA 3 - DIA 22/07/2021**
+## AULA 3 - DIA 22/07/2021
 
 AULA TEÓRICA: Introdução aos modelos de movimento animal utilizando dados de telemetria.
 
