@@ -41,7 +41,7 @@ PRÁTICA 1 - Redes ecológicas multipartida: O objetivo desta prática é constr
 
 <img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
-Rede trófica bipartida 2D: O objetivo deste exercício é construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ (Dormann et al., 2015). Também é possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. Para isto, criamos uma matriz binária assimétrica de interação trófica entre as espécies, onde 1 representou o consumo da espécie e 0 o não-consumo (Tabela 2). O número de interações foi 32, 28 e 23 para a onça-pintada, a onça-parda e a jaguatirica, respectivamente. O grau variou de 1 a 3, sendo que quatro espécies de grande porte apresentaram grau 1 porque foram consumidas apenas pelo predador de topo. As espécies de pequeno porte apresentaram grau 3 porque foram consumidas pelo predador de topo e também pelos mesopredadores. 
+Rede trófica bipartida 2D: O objetivo deste exercício é construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ [(Dormann et al 2015)](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf). Também é possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. Para isto, criamos uma matriz binária assimétrica de interação trófica entre as espécies, onde 1 representou o consumo da espécie e 0 o não-consumo (Tabela 2). O número de interações foi 32, 28 e 23 para a onça-pintada, a onça-parda e a jaguatirica, respectivamente. O grau variou de 1 a 3, sendo que quatro espécies de grande porte apresentaram grau 1 porque foram consumidas apenas pelo predador de topo. As espécies de pequeno porte apresentaram grau 3 porque foram consumidas pelo predador de topo e também pelos mesopredadores. 
 
 - [Código `.R`]()
 
@@ -76,6 +76,8 @@ PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática
 <img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
 
 REFERÊNCIAS:
+
+[Dormann CF, Fruend J, Gruber B. 2014.](http://cran.r-project.org/web/packages/bipartite/bipartite.pdf). Package ‘bipartite’. 
 
 [Fiske IJ & Chandler RB, 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
 
