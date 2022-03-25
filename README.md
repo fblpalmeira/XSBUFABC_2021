@@ -33,7 +33,7 @@ AULA TEÓRICA: Introdução a estrutura e a dinâmica de redes de interações t
 
 - [Aula teórica 1 - Modelos de comunidades `.pdf`](https://github.com/fblpalmeira/XSBUFABC_2021/blob/main/doc/Aula1_ModelosComunidades_Fran_XSemBio_UFABC_2021.pdf)
 
-PRÁTICA 1 - Redes ecológicas multipartida: O objetivo desta prática é construir uma representação gráfica tridimensional (3D) da rede de interação trófica entre uma espécie de predador de topo com espécies de mesopredadores e de presas utilizado o pacote ‘foodweb’ (Perdomo, 2014). Utilizaremos uma matriz binária simétrica de interação trófica entre a onça-pintada e outros mamíferos, carnívoros e herbívoros, utilizando dados da literatura compilados por [Palmeira 2015](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf), onde 0 representa que o predador de topo não-consumiu a espécie de meso ou de presa e 1 consumiu (Tabela 1). Desta forma, é possível estimar a riqueza de espécies, a conectância, o número e a densidade de links, o número de níveis tróficos, o nível trófico de cada espécie, a fração de espécies de herbívoros, onívoros e de topo e a razão entre predador e presa (Perdomo, 2014). As espécies que consumiram aquelas espécies de nível trófico basal (herbívoros) foram classificadas no nível trófico 1. As que consumiram as espécies de nível 1 foram classificadas no nível 2, e assim sucessivamente até o nível do predador de topo, neste caso, formado pela espécie que não foi consumida por nenhuma outra (Figura 2). 
+PRÁTICA 1 - Redes ecológicas multipartida: O objetivo desta prática é construir uma representação gráfica tridimensional (3D) da rede de interação trófica entre uma espécie de predador de topo com espécies de mesopredadores e de presas utilizado o pacote ‘foodweb’ [(Perdomo G, 2015)](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf). Utilizaremos uma matriz binária simétrica de interação trófica entre a onça-pintada e outros mamíferos, carnívoros e herbívoros, utilizando dados da literatura compilados por [(Palmeira 2015)](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf), onde 0 representa que o predador de topo não-consumiu a espécie de meso ou de presa e 1 consumiu (Tabela 1). Desta forma, é possível estimar a riqueza de espécies, a conectância, o número e a densidade de links, o número de níveis tróficos, o nível trófico de cada espécie, a fração de espécies de herbívoros, onívoros e de topo e a razão entre predador e presa. As espécies que consumiram aquelas espécies de nível trófico basal (herbívoros) foram classificadas no nível trófico 1. As que consumiram as espécies de nível 1 foram classificadas no nível 2, e assim sucessivamente até o nível do predador de topo, neste caso, formado pela espécie que não foi consumida por nenhuma outra (Figura 2). 
 
 - [Código `.R`](https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.R)
 
@@ -41,17 +41,11 @@ PRÁTICA 1 - Redes ecológicas multipartida: O objetivo desta prática é constr
 
 <img src="https://github.com/fblpalmeira/foodweb/blob/main/jaguar_foodweb.gif">
 
-Rede trófica bipartida 2D: O objetivo deste exercício é construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ (Dormann et al., 2014). Também é possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. Para isto, criamos uma matriz binária assimétrica de interação trófica entre as espécies, onde 1 representou o consumo da espécie e 0 o não-consumo (Tabela 2). O número de interações foi 32, 28 e 23 para a onça-pintada, a onça-parda e a jaguatirica, respectivamente. O grau variou de 1 a 3, sendo que quatro espécies de grande porte apresentaram grau 1 porque foram consumidas apenas pelo predador de topo. As espécies de pequeno porte apresentaram grau 3 porque foram consumidas pelo predador de topo e também pelos mesopredadores. 
+Rede trófica bipartida 2D: O objetivo deste exercício é construir uma rede de interação bipartida utilizado o pacote ‘bipartite’ (Dormann et al., 2015). Também é possível estimar o padrão de conectividade entre predadores e presas (interações observadas e possíveis), o grau de conectância e a sua distribuição, o quanto as espécies interagem, qual a força desta interação, como as interações se sobrepõem e se agrupam, qual o papel das espécies (espécies hub da rede, hub do módulo, conectoras e/ou periféricas) e quais os aspectos ecológicos mais importantes para a estrutura e a dinâmica da rede. Para isto, criamos uma matriz binária assimétrica de interação trófica entre as espécies, onde 1 representou o consumo da espécie e 0 o não-consumo (Tabela 2). O número de interações foi 32, 28 e 23 para a onça-pintada, a onça-parda e a jaguatirica, respectivamente. O grau variou de 1 a 3, sendo que quatro espécies de grande porte apresentaram grau 1 porque foram consumidas apenas pelo predador de topo. As espécies de pequeno porte apresentaram grau 3 porque foram consumidas pelo predador de topo e também pelos mesopredadores. 
 
 - [Código `.R`]()
 
 - [Planilha `.csv`]()
-
-REFERÊNCIAS:
-
-[Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
-
-[Perdomo G, 2012.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
 
 ## AULA 2 - DIA 21/07/2021
 
@@ -67,12 +61,6 @@ O objetivo deste esxercício é estimar a probabiliade de ocorrência de espéci
 
 - [Planilha `.csv`]()
 
-REFERÊNCIAS:
-
-[Fiske IJ & Chandler RB, 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
-
-[Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
-
 ## AULA 3 - DIA 22/07/2021
 
 AULA TEÓRICA: Introdução aos modelos de movimento animal utilizando dados de telemetria.
@@ -87,8 +75,16 @@ PRÁTICA 3 - Visualização (GIF) do movimento animal: O objetivo desta prática
 
 <img src="https://github.com/fblpalmeira/movevis/blob/main/jaguar_pantanal_saobento_2008.gif">
 
-REFERÊNCIAS: 
+REFERÊNCIAS:
+
+[Fiske IJ & Chandler RB, 2011.](http://www.jstatsoft.org/v43/i10/paper) unmarked: An R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software 43(1): 1-23.
+
+[Mackenzie DI, Nichols JD, Royle JA, Pollock KH, Bailey LL, Hines JE. 2017.](https://books.google.com.br/books?hl=pt-BR&lr=&id=hs2cBAAAQBAJ&oi=fnd&pg=PP1&dq=ackenzie+DI,+Nichols+JD,+Royle+JA,+Pollock+KH,+Bailey+LL,+Hines+JE.+2006.&ots=-YchUeaAuX&sig=_kbFkM0CVDDrg8SU2rShw_g4JnM#v=onepage&q=ackenzie%20DI%2C%20Nichols%20JD%2C%20Royle%20JA%2C%20Pollock%20KH%2C%20Bailey%20LL%2C%20Hines%20JE.%202006.&f=false) Occupancy estimation and modeling: inferring patterns and dynamics of species occurrence. Elsevier, London.
 
 [Morato, R. G. et al. 2018.](http://doi.org/10.1002/ecy.2379) Jaguar movement database: a GPS-based movement dataset of an apex predator in the Neotropics. Ecology.
+
+[Palmeira FBL, 2015.](https://www.teses.usp.br/teses/disponiveis/11/11150/tde-17092015-111206/publico/Francesca_Belem_Lopes_Palmeira_versao_revisada.pdf) Coocorrência, interações tróficas e distribuição potencial da onça-pintada (Panthera onca) no bioma Amazônia. Tese de Doutorado, Universidade de São Paulo (USP).
+
+[Perdomo G, 2015.](https://cran.r-project.org/web/packages/foodweb/foodweb.pdf) Package 'foodweb'.
 
 [Schwalb-Willmann, J. 2020.](https://cran.r-project.org/web/packages/moveVis/index.html) Package 'moveVis': Movement Data Visualization.
